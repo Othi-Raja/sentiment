@@ -1,0 +1,1 @@
+to download pkl model use : https://firebasestorage.googleapis.com/v0/b/portfolioformdata-4caae.appspot.com/o/ml%20Project%2Fsentiment.zip?alt=media&token=3bfce889-7031-4601-95f4-42d561b130c9
