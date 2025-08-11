@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Sentiment Analyzer",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting", "storage", "contextMenus"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Click to analyze sentiment"
+  },
+  "host_permissions": ["http://127.0.0.1:3001/*"]
+}
